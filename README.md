@@ -1,4 +1,4 @@
-# 🚀 LUPM - Low Utility Sequential Pattern Mining (Prefix Miner)
+#  LUPM - Low Utility Sequential Pattern Mining (Prefix Miner)
 
 ## 📌 What is this?
 
