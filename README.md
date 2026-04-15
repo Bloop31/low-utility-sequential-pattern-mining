@@ -1,3 +1,5 @@
+Supervised and reviewed by Dr. Sanjiban S Roy
+
 #  LUPM - Low Utility Sequential Pattern Mining (Prefix Miner)
 
 ## 📌 What is this?
