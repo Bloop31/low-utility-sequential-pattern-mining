@@ -2,7 +2,7 @@ Supervised and reviewed by Dr. Sanjiban S Roy
 
 #  LUPM - Low Utility Sequential Pattern Mining (Prefix Miner)
 
-## 📌 What is this?
+##  What is this?
 
 LUPM is an optimized implementation of **Low Utility Sequential Pattern Mining** using a **Prefix-based approach**.  
 The system focuses on efficiently discovering patterns with low utility by reducing unnecessary computations using advanced pruning strategies.
@@ -15,7 +15,7 @@ It improves upon traditional LUSP methods by incorporating:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Layer              | Technology                     |
 |-------------------|------------------------------|
@@ -27,7 +27,7 @@ It improves upon traditional LUSP methods by incorporating:
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - 🔹 Prefix-based pattern mining  
 - 🔹 Efficient low utility pattern extraction  
